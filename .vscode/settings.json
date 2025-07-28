@@ -1,0 +1,4 @@
+{
+  "editor.defaultFormatter": "csharpier.csharpier-vscode",
+  "csharpier.diagnosticsLevel": "3"
+}
